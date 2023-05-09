@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(2, 66, 2);
+ 
+}
+
+.logo{
+    margin-left: 800px;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+.membros{
+
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+.carrossel li{
+   align-items: center;
+   justify-content: center;
+   display: inline-block;
+}
+
+
